@@ -37,3 +37,6 @@ doc/_dvlpt
 # C extensions
 *.so
 
+build-scons
+.sconsign.dblite
+
