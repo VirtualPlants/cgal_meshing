@@ -1,0 +1,56 @@
+{
+  ".coveragerc": {
+    "coverage": "VIS9k4DQVYSbNRRB4pyycc7DmcYQodwRB8+AUCStjQk2LNNDsxzjScEIUeVCM28Yw2Fcr7s1D7SPE0syOtwm1Q=="
+  }, 
+  ".gitignore": {
+    "github": "E8Yr7ZonuoIVgMalSnEiuBvRsvQdsfSvYMGHvjOjPBPQth2B+YTADz0uZhCk9b+nj200f+lZE96bPAXJhhAkNA=="
+  }, 
+  "AUTHORS.rst": {}, 
+  "CONTRIBUTING.rst": {}, 
+  "HISTORY.rst": {}, 
+  "LICENSE": {
+    "license": "21ExMhSzB2uXQuU1VoH7++nrb4u6TbesqGtJDpM39OLPWft9SJ2tJ956R6foYmkI9VuJay7SUrhFLPxxMEHLxg=="
+  }, 
+  "MANIFEST.in": {
+    "pysetup": "vzgcfdwg7fafu0G3HEmFsZnC8jB8sa4zeSFQ2ReZO+pUfGeynOcw4+CIzP/ZV7n5nmpGGI7xqcdcPtOFfoivdQ=="
+  }, 
+  "README.rst": {
+    "doc": "z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg=="
+  }, 
+  "doc/Makefile": {
+    "sphinx": "C58jxdu8XJNOoaWOw7VWy4LwFmS8lTQt/JeZLt5JozMSJ503plOZchucx+vAEzELbx/Czs/h9pshe9s+9HeOeQ=="
+  }, 
+  "doc/authors.rst": {}, 
+  "doc/conf.py": {
+    "sphinx": "yoI72f2AYbolg+Kqck9qJCflC2slKXRfwTHQFeP0GCNAub3oeIy3zSQFZ0DfwL5sNGQhBQBJfJ8UEeuFjRNxKA=="
+  }, 
+  "doc/contributing.rst": {}, 
+  "doc/history.rst": {}, 
+  "doc/index.rst": {}, 
+  "doc/installation.rst": {}, 
+  "doc/make.bat": {
+    "sphinx": "oA67PK7JSR3w9u1V0gOXFZAb8qgfgUJ0wQ46cVXu7M3iJyAbLf76WkEqw6Y1r5Q6EvHAogcjmImdGsOpiYZ22g=="
+  }, 
+  "doc/readme.rst": {}, 
+  "doc/usage.rst": {}, 
+  "dvlpt_requirements.txt": {
+    "pysetup": "3+3ypRIiSRJu4qfh2VRoDgFw8mgXrR5XArs2YhJ3pidji2TRU8cDtUExYqZUx6c3RNzLGGXkOTgnL+TtAfpObg=="
+  }, 
+  "requirements.txt": {
+    "pysetup": "z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg=="
+  }, 
+  "setup.cfg": {
+    "pysetup": "tfp//ar4LWIaruWp/pmo2CNQpXGjVlQrSl+z1lkXud4qG0YbLYZvWEcdKzZ8G9Yw4mn/uvk8YlDxQlzVuY4GUw=="
+  }, 
+  "setup.py": {
+    "pysetup.call": "2wHuP94SpWKZpqOzExkQGTxnhGPgBHK3qOdPn0Ncstj5FkZ7FBGGM/inqAXaI4QLKQtTNlOUYRGSkYUWAUcf1w==", 
+    "pysetup.kwds": "EzQz6swWuvk9J7WKsPzNiag5FSjquKsgE38c7uMBTUECCK8AKhYDTuU4jlcSuCTNLDBqyS5KJ63e19ud66TYQw=="
+  }, 
+  "src/openalea/cgal_meshing/__init__.py": {
+    "base": "gR33dW0qqYmsV9NSNB+DD8XmuxnC2t0mKjnMoU5728qh97fSER6MbX+3QKxpZDLByZToaAay4xhx8acxketJmA=="
+  }, 
+  "src/openalea/cgal_meshing/version.py": {
+    "version": "8tWEvNZfrOFEZfSGOYZLW6d6y+VuHZ9zlkxFZZp5JmnZwmwqllXDRnPUfWwZUZsQJ9yENNYTb08PQvtPlfSogA=="
+  }, 
+  "test/__init__.py": {}
+}
